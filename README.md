@@ -15,7 +15,7 @@ I put in jack connectors to make them "modular"...
 But I realized that I wasn't going to make it with my valisettes, as they take up a lot of space, so the Eurorack saved me ^^.
 
 
-<img src='Pictures/Shruti-1_first_work.JPG' width='200px'/>
+<img src='Pictures/Shruti-1_first_work.jpg' width='200px'/>
 
 
 <img src='Pictures/Shruti-1_Final.jpg' width='200px'/>
