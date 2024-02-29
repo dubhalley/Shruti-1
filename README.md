@@ -4,7 +4,7 @@ New housing for the Shruti-1
 
 ## Design
 
-In 2010 I assembled the Shruti-1, the version before the well-known Shruthi-1.
+In 2010 I assembled the Shruti-1 (Without H), the version before the well-known Shruthi-1 (With the H).
 
 The 2 pcb were not yet optimized to be assembled on top of each other.
 
@@ -12,7 +12,7 @@ At the time, I put it in a suitcase along with a broken Behringer delay pedal an
 
 I put in jack connectors to make them "modular"...
 
-But I realized that I wasn't going to make it with my valisettes, as they take up a lot of space, so the Eurorack saved me ^^.
+But I realized that I wasn't going to make it with my suitcases, as they take up a lot of space, so the Eurorack saved me ^^.
 
 
 <img src='Pictures/Shruti-1_first_work.jpg' width='200px'/>
@@ -35,6 +35,7 @@ We're measuring the overall dimensions of the pcb, I've added a little width (3 
 
 <img src='Pictures/Shruti-1_V2024_Mesures.jpg' width='200px'/>
 
+### Shruti new box
 
 To create the box, there's a great site : https://www.makercase.com/
 
@@ -42,4 +43,14 @@ It's easy to use and lets you create a custom box. Once you've finished entering
 
 <img src='Pictures/Shruti-1_Makercase.png' width='200px'/>
 
+
+### Shruti new box design
+
+I use Inkscape to add the holes, the pictures and all the text.
+
+### LaserCut the box
+
+### Assembly the box
+
+### Play with
 
