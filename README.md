@@ -65,13 +65,11 @@ Box/Shruti-1_Box V2.dxf -> The file vectorised for the laserCutter
 
 ### Cap for the button
 
-There are two differents cap :
+There are two differents cap for the switchs :
 
-Cap shruti_3.6.stl : Because the first button need a hole with 3.6mm side
+Cap shruti_3.6.stl : Because the genuine button need a square hole in the cap with 3.6mm side
 
-Cap shruti_4.2.stl : Because i need to change a button on the shruti, and, the new reference for this button at mouser has a hole with 4.2mm side
+Cap shruti_4.2.stl : Because i need to change a button on the shruti, and, the new reference for this button at mouser need a square hole with 4.2mm side in the cap
 
 In the 3D files folder you could find the freecad files if you want to modify them, and the stl files for the 3D printer
-
-### Play with
 
