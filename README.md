@@ -5,7 +5,7 @@ New housing for the Shruti-1
 
 ## Design
 
-In 2010 I assembled the Shruti-1 (Without H), because it's the platypus controlled, the version before the well-known Shruthi-1 (With the H, all infos here : https://pichenettes.github.io/mutable-instruments-diy-archive/shruthi/build/).
+In 2010 I assembled the Shruti-1 (Without the second H), it's the platypus controlled board, the version before the well-known Shruthi-1 (With the H, all infos here : https://pichenettes.github.io/mutable-instruments-diy-archive/shruthi/build/).
 
 <img src='Pictures/Shruti-1_Platypus.jpg' width='200px'/>
 
@@ -61,7 +61,7 @@ Box/Shruti-1_Box V2.dxf -> The file vectorised for the laserCutter
 
 ### LaserCut and assembly the box
 
-<img src='Shruti-1_Platypus_NewBox.jpg' width='200px'/>*
+<img src='Pictures/Shruti-1_Platypus_NewBox.jpg' width='200px'/>*
 
 ### Cap for the button
 
