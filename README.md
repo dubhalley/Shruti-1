@@ -5,11 +5,11 @@ New housing for the Shruti-1
 
 ## Design
 
-In 2010 I assembled the Shruti-1 (Without the second H), it's the platypus controlled board, the version before the well-known Shruthi-1 (With the H, all infos here : https://pichenettes.github.io/mutable-instruments-diy-archive/shruthi/build/).
+In 2010 I assembled the Shruti-1 (Without the second H), it's the platypus controlled board, the version before the well-known Shruthi-1 (With the 2nd H, all infos here : https://pichenettes.github.io/mutable-instruments-diy-archive/shruthi/build/).
 
 <img src='Pictures/Shruti-1_Platypus.jpg' width='200px'/>
 
-The 2 pcb were not yet optimized to be assembled on top of each other.
+The pcb's were not yet optimized to be assembled on top of each other.
 
 At the time, I put it in a suitcase along with a broken Behringer delay pedal and a Fuzz "harmonic percolator" pedal circuit.
 
@@ -49,7 +49,7 @@ It's easy to use and lets you create a custom box. Once you've finished entering
 
 ### Shruti new box design
 
-I use Inkscape to add the holes, the pictures and all the text.
+I use Inkscape (https://inkscape.org/) to add the holes, the pictures and the text.
 
 <img src='Pictures/Shruti-1_Platypus.png' width='200px'/>*
 
@@ -72,4 +72,9 @@ Cap shruti_3.6.stl : Because the genuine button need a square hole in the cap wi
 Cap shruti_4.2.stl : Because i need to change a button on the shruti, and, the new reference for this button at mouser need a square hole with 4.2mm side in the cap
 
 In the 3D files folder you could find the freecad files if you want to modify them, and the stl files for the 3D printer
+
+The prototype is finish, i just need to cut another box with the fonction of the buttons
+
+<img src='Pictures/Shruti-1_Platypus_NewBox2' width='200px'/>*
+
 
