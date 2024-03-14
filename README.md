@@ -1,10 +1,13 @@
 # Shruti-1
+
 New housing for the Shruti-1 
 
 
 ## Design
 
-In 2010 I assembled the Shruti-1 (Without H), the version before the well-known Shruthi-1 (With the H).
+In 2010 I assembled the Shruti-1 (Without H), because it's the platypus controlled, the version before the well-known Shruthi-1 (With the H, all infos here : https://pichenettes.github.io/mutable-instruments-diy-archive/shruthi/build/).
+
+<img src='Pictures/Shruti-1_Platypus.jpg' width='200px'/>
 
 The 2 pcb were not yet optimized to be assembled on top of each other.
 
@@ -48,9 +51,27 @@ It's easy to use and lets you create a custom box. Once you've finished entering
 
 I use Inkscape to add the holes, the pictures and all the text.
 
-### LaserCut the box
+<img src='Pictures/Shruti-1_Platypus.png' width='200px'/>*
 
-### Assembly the box
+The files are available here :
+
+Box/Shruti-1_Box V2.svg -> The file which could be modify with inkscape
+
+Box/Shruti-1_Box V2.dxf -> The file vectorised for the laserCutter
+
+### LaserCut and assembly the box
+
+<img src='Shruti-1_Platypus_NewBox.jpg' width='200px'/>*
+
+### Cap for the button
+
+There are two differents cap :
+
+Cap shruti_3.6.stl : Because the first button need a hole with 3.6mm side
+
+Cap shruti_4.2.stl : Because i need to change a button on the shruti, and, the new reference for this button at mouser has a hole with 4.2mm side
+
+In the 3D files folder you could find the freecad files if you want to modify them, and the stl files for the 3D printer
 
 ### Play with
 
