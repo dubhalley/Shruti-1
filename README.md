@@ -75,6 +75,6 @@ In the 3D files folder you could find the freecad files if you want to modify th
 
 The prototype is finish, i just need to cut another box with the fonction of the buttons
 
-<img src='Pictures/Shruti-1_Platypus_NewBox2' width='200px'/>*
+<img src='Pictures/Shruti-1_Platypus_NewBox2.jpg' width='200px'/>
 
 
